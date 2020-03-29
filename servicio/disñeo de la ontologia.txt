@@ -1,0 +1,65 @@
+{
+	"ontologia":{
+		"nombre":String,
+		"desarrollo": {
+			"Curso":{
+				"nombre" : String,
+				"inicio" : String,
+				"fin" : String,
+				"actividad":{
+					"nombre": String,
+					"fin":String,
+					"tipo":{
+						"chat" : {
+							"entrar":String,
+							"ingresar": String,
+							"empezar": String,
+							"comenzar": String
+						},
+						"foro" : {
+							"tamaño":String,	
+							"dimensión" : String,
+							"tema":String,
+							"asunto": String,
+							"añadir":String,
+							"agregar": String,
+							"adicionar":String,
+							"responder":String,
+							"contestar": String
+						},
+						"glosario" : {
+							"concepto": String,
+							"definicion":String,
+							"añadir": String,
+							"agregar": String,
+							"adicionar":String,
+							"buscar" : String
+						},
+						"cuestionario":{
+							"intentos":String,
+							"calificacion": String,
+							"abrir":String,
+							"cerrar":String,
+							"resolver":String	
+						},
+						"wiki":{
+							"editar":String,
+							"agregar":String
+						},
+						"taller":{
+							"enviar":String
+						},
+						"tarea":{
+							"enviar": String
+						}
+					}
+		
+					
+				}
+			}
+		}
+	}
+
+}
+
+

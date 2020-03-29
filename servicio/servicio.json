@@ -1,0 +1,65 @@
+{
+	"ontologia":{
+		"nombre":"Ontologia_Moodle",
+		"desarrollo": {
+			"Curso":{
+				"nombre" : "Fundamentos de Java",
+				"inicio" : "02/02/2020",
+				"fin" : "05/05/2020",
+				"actividad":{
+					"nombre": "Funciones anidadas",
+					"fin":"03/06/2020",
+					"tipo":{
+						"chat" : {
+							"entrar":"Para entrar a la sala solo debes dar click en entrar en la sala",
+							"ingresar": "Para ingresar a la sala solo debes dar click en entrar en la sala",
+							"empezar": "Para empezar el chat solo debes dar click en entrar en la sala",
+							"comenzar": "Para comenzar el chat solo debes dar click en entrar en la sala"
+						},
+						"foro" : {
+							"tamaño":"2200",	
+							"dimensión" : "2200",
+							"tema":"nuevas funciones anidadas",
+							"asunto": "funciones anidadas",
+							"añadir":"para añadir un tema debes dar click en añadir un nuevo tema de discusion",
+							"agregar": "para agregar un tema debes dar click en añadir un nuevo tema de discusion",
+							"adicionar":"para adiconar un tema debes dar click en añadir un nuevo tema de discusion",
+							"responder":"para responder un tema debes ingresar al tema de discusion y dar click en responder",
+							"contestar": "para contestar un tema debes ingresar al tema de discusion y dar click en responder"
+						},
+						"glosario" : {
+							"concepto": "variable",
+							"definicion":"representacion de aquello que varia",
+							"añadir": "para añadir un concepto debes dar click en añadir entrada",
+							"agregar": "para agregar un concepto debes dar click en añadir entrada",
+							"adicionar":"para adicionar un concepto debes dar click en añadir entrada",
+							"buscar" : "para buscar un concepto debes ingresarlo en el cajon y dar click en buscar"
+						},
+						"cuestionario":{
+							"intentos":"2",
+							"calificacion": "3.4",
+							"abrir":"02/02/2020",
+							"cerrar":"08/08/2020",
+							"resolver":"para resolver el cuestionario debes dar click intente resolver cuestionario ahora"		
+						},
+						"wiki":{
+							"editar":"para editar la wiki debes ir a la pestaña editar",
+							"agregar":"Para agregar comentarios debes dar click en agregar"
+						},
+						"taller":{
+							"enviar":"para enviar el taller debes dar click en enviar"
+						},
+						"tarea":{
+							"enviar": "para enviar la tarea debes dar click en enviar"
+						}
+					}
+		
+					
+				}
+			}
+		}
+	}
+
+}
+
+
